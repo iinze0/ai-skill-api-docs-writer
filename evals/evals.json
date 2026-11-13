@@ -1,0 +1,7 @@
+{
+  "skill": "api-docs-writer",
+  "test_cases": [
+    {"name": "endpoint", "input": "Write docs for this REST endpoint", "assertions": ["Includes params", "Has examples", "Lists status codes"]},
+    {"name": "openapi", "input": "Generate human-readable docs from this OpenAPI spec", "assertions": ["Clear structure", "Developer friendly"]}
+  ]
+}

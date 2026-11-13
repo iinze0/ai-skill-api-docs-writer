@@ -1,0 +1,8 @@
+{
+  "skill": "api-docs-writer",
+  "test_cases": [
+    {"input": "write API documentation", "should_trigger": true},
+    {"input": "document this endpoint", "should_trigger": true},
+    {"input": "summarize meeting", "should_trigger": false}
+  ]
+}
